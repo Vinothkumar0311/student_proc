@@ -1,0 +1,279 @@
+{
+"data":[
+  {
+    "studentid": 2,
+    "studentfname": "Nithya das M",
+    "studentlname": "SHANMUGA DAS"
+  },
+  {"studentid": 3, "studentfname": "Vyshna KP", "studentlname": "PRADEEP"},
+  {
+    "studentid": 4,
+    "studentfname": "Garshya huviz johns",
+    "studentlname": "JOHNSON EALIAS"
+  },
+  {"studentid": 5, "studentfname": "Anisha P chandi", "studentlname": "CHANDI"},
+  {"studentid": 6, "studentfname": "Ramya V", "studentlname": "VIJAYAKUMAR"},
+  {
+    "studentid": 7,
+    "studentfname": "Devadharshini E",
+    "studentlname": "ELANGOVAN"
+  },
+  {
+    "studentid": 8,
+    "studentfname": "Devika NS",
+    "studentlname": "SANTHOSHKUMAR"
+  },
+  {
+    "studentid": 9,
+    "studentfname": "Amrutha varshini RR",
+    "studentlname": "RAVI"
+  },
+  {
+    "studentid": 10,
+    "studentfname": "Deepika S",
+    "studentlname": "SUBRAMANIYAN"
+  },
+  {
+    "studentid": 11,
+    "studentfname": "Kanchana A",
+    "studentlname": "ARIVAZHAGAN"
+  },
+  {"studentid": 12, "studentfname": "Jayasri A", "studentlname": "ARIVAZHAGAN"},
+  {
+    "studentid": 13,
+    "studentfname": "Jancy rani A",
+    "studentlname": "ALEX SANDER"
+  },
+  {"studentid": 14, "studentfname": "Sadhana S", "studentlname": "SAMIDURAI"},
+  {"studentid": 15, "studentfname": "Sarulatha S", "studentlname": "SEKAR"},
+  {"studentid": 16, "studentfname": "Lakshmi A", "studentlname": "ANANDHAN"},
+  {
+    "studentid": 17,
+    "studentfname": "Shanmathi K",
+    "studentlname": "KATHIRASAN"
+  },
+  {
+    "studentid": 18,
+    "studentfname": "Siji A Kurian",
+    "studentlname": "KURIAN CHACKO"
+  },
+  {"studentid": 19, "studentfname": "Likitha R", "studentlname": "RAJINI"},
+  {"studentid": 20, "studentfname": "Brindhavathi P", "studentlname": "PRABHU"},
+  {
+    "studentid": 21,
+    "studentfname": "Bhakkiyalakshmi R",
+    "studentlname": "RAJA"
+  },
+  {
+    "studentid": 22,
+    "studentfname": "Indhuja S",
+    "studentlname": "SATHIYA MOORTHY"
+  },
+  {"studentid": 23, "studentfname": "Nandhini S", "studentlname": "SELVAKUMAR"},
+  {"studentid": 24, "studentfname": "Vijitha S", "studentlname": "SUNDAR RAJ"},
+  {"studentid": 25, "studentfname": "Isaipriya A", "studentlname": "AMBETHKAR"},
+  {
+    "studentid": 26,
+    "studentfname": "Isha Jeby mathew",
+    "studentlname": "SEBY MATHEW"
+  },
+  {
+    "studentid": 27,
+    "studentfname": "Adhithya Sunil E",
+    "studentlname": "SUNILKUMAR"
+  },
+  {"studentid": 28, "studentfname": "Nandhini K", "studentlname": "KALI"},
+  {"studentid": 29, "studentfname": "Saranya V", "studentlname": "VEERAMANI"},
+  {"studentid": 30, "studentfname": "Sneka M", "studentlname": "MATHIYALAHAN"},
+  {"studentid": 31, "studentfname": "Anusree C", "studentlname": "MOHANDAS"},
+  {"studentid": 32, "studentfname": "Aleena Wilson", "studentlname": "WILSON"},
+  {
+    "studentid": 33,
+    "studentfname": "Hanna Thomas",
+    "studentlname": "THOMAS PHILIP"
+  },
+  {
+    "studentid": 34,
+    "studentfname": "Abina Titto",
+    "studentlname": "TITTO JAMES"
+  },
+  {"studentid": 35, "studentfname": "Sangeetha A", "studentlname": "ANBALAGAN"},
+  {"studentid": 36, "studentfname": "Athulya PS", "studentlname": "SATHYAN "},
+  {"studentid": 37, "studentfname": "Monisha R", "studentlname": "RAVI"},
+  {
+    "studentid": 38,
+    "studentfname": "Deepika A",
+    "studentlname": "AYYAM PERUMAL"
+  },
+  {
+    "studentid": 39,
+    "studentfname": "Kuralarasi K",
+    "studentlname": "KALAISELVAN"
+  },
+  {"studentid": 40, "studentfname": "Anna Job", "studentlname": "JOB"},
+  {"studentid": 41, "studentfname": "Monisha V", "studentlname": "VENUGOPAL"},
+  {"studentid": 42, "studentfname": "Anshitha CM", "studentlname": "MANI"},
+  {"studentid": 43, "studentfname": "Keerthana.E", "studentlname": "ELAYARAJA"},
+  {
+    "studentid": 44,
+    "studentfname": "Aleena Shaijan",
+    "studentlname": "SHAIJAN"
+  },
+  {"studentid": 45, "studentfname": "Priya TS", "studentlname": "SHINOJ"},
+  {"studentid": 46, "studentfname": "Prithika D", "studentlname": "DURAI"},
+  {
+    "studentid": 47,
+    "studentfname": "Ashna Fathima.S",
+    "studentlname": "SUDHEER"
+  },
+  {"studentid": 48, "studentfname": "Namitha CS", "studentlname": "SHAJU"},
+  {"studentid": 49, "studentfname": "Namitha.A", "studentlname": "ANGAMUTHU"},
+  {
+    "studentid": 50,
+    "studentfname": "Devi bhavani S",
+    "studentlname": "SIVAN RAJ"
+  },
+  {
+    "studentid": 51,
+    "studentfname": "Akhina PP",
+    "studentlname": "PEETHAMBARAN"
+  },
+  {
+    "studentid": 52,
+    "studentfname": "Vishnusree P",
+    "studentlname": "PALANI SAMY"
+  },
+  {"studentid": 53, "studentfname": "Pavithra S", "studentlname": "SIVAKUMAR"},
+  {"studentid": 54, "studentfname": "Jibia job", "studentlname": "JOB"},
+  {
+    "studentid": 55,
+    "studentfname": "Annaniya sara biju",
+    "studentlname": "BIJU ALEX"
+  },
+  {"studentid": 56, "studentfname": "Sana nasrin K", "studentlname": "RASHEED"},
+  {
+    "studentid": 57,
+    "studentfname": "Anusree PR",
+    "studentlname": "RADHAKRISHNAN"
+  },
+  {"studentid": 58, "studentfname": "Abhinaya MA", "studentlname": "ANANDAN"},
+  {
+    "studentid": 59,
+    "studentfname": "Adithya P sabu",
+    "studentlname": "PRABHAKARAN"
+  },
+  {"studentid": 60, "studentfname": "Vanisha", "studentlname": "MURUGESAN"},
+  {
+    "studentid": 61,
+    "studentfname": "Salma salim",
+    "studentlname": "SAINUDEEN SALIM"
+  },
+  {
+    "studentid": 62,
+    "studentfname": "Gayathri",
+    "studentlname": "KALIYAPERUMAL"
+  },
+  {"studentid": 63, "studentfname": "Nivetha S", "studentlname": "SRIRAM"},
+  {"studentid": 64, "studentfname": "Anija S", "studentlname": "SUDHAKARAN"},
+  {"studentid": 65, "studentfname": "Vidya B", "studentlname": "BALRAJ"},
+  {"studentid": 66, "studentfname": "Aswini M Biju", "studentlname": "BIJU"},
+  {
+    "studentid": 67,
+    "studentfname": "Kressy",
+    "studentlname": "JOSH JOSEPH ARAKKAL"
+  },
+  {
+    "studentid": 68,
+    "studentfname": "Muhsina muhammed",
+    "studentlname": "ANIYAN KUNJU"
+  },
+  {"studentid": 69, "studentfname": "Alsana nizar", "studentlname": "NIZAR"},
+  {
+    "studentid": 70,
+    "studentfname": "Aleesha benny",
+    "studentlname": "BENNY MATHEW"
+  },
+  {"studentid": 71, "studentfname": "Pavithra P", "studentlname": "PONNUSAMY"},
+  {
+    "studentid": 72,
+    "studentfname": "Devika dilip",
+    "studentlname": "DILIPKUMAR"
+  },
+  {
+    "studentid": 73,
+    "studentfname": "Mangalagowri K",
+    "studentlname": "KOLANJINATHAN"
+  },
+  {"studentid": 74, "studentfname": "Saja TP", "studentlname": "THAJUMON"},
+  {
+    "studentid": 75,
+    "studentfname": "Alfia S",
+    "studentlname": "SEBASTIAN DAVID"
+  },
+  {"studentid": 76, "studentfname": "Manjuri", "studentlname": "Raja"},
+  {"studentid": 77, "studentfname": "Vennila ", "studentlname": "Ramalingam"},
+  {"studentid": 78, "studentfname": "Kaviya", "studentlname": "Ramamoorthi"},
+  {"studentid": 79, "studentfname": "Devika", "studentlname": "Biju P B"},
+  {"studentid": 80, "studentfname": "Ramya", "studentlname": "Murugasan"},
+  {
+    "studentid": 81,
+    "studentfname": "Bhavadharani",
+    "studentlname": "Krishna Kumar N"
+  },
+  {
+    "studentid": 82,
+    "studentfname": "Subashini",
+    "studentlname": "Subramaniyan G"
+  },
+  {
+    "studentid": 83,
+    "studentfname": "Ridha K V ",
+    "studentlname": "Abdul azeer K V"
+  },
+  {"studentid": 84, "studentfname": "Thirisha ", "studentlname": "Sellappan"},
+  {"studentid": 85, "studentfname": "Anupriya ", "studentlname": "Koothan"},
+  {
+    "studentid": 86,
+    "studentfname": "Anna mariya antony",
+    "studentlname": "Antony K John"
+  },
+  {"studentid": 87, "studentfname": "Varshini", "studentlname": "Selva Raj"},
+  {"studentid": 88, "studentfname": "Sridevi", "studentlname": "Neethi"},
+  {"studentid": 89, "studentfname": "Athulya", "studentlname": "Sudhesh"},
+  {
+    "studentid": 90,
+    "studentfname": "Akshaya ",
+    "studentlname": "Prakashan Kuniyath"
+  },
+  {"studentid": 91, "studentfname": "Rubini", "studentlname": "Rajini"},
+  {"studentid": 92, "studentfname": "Vidhyasri", "studentlname": "Sundaram"},
+  {"studentid": 93, "studentfname": "Karthika", "studentlname": "Tamizhselvan"},
+  {
+    "studentid": 94,
+    "studentfname": "Jislin Ann George",
+    "studentlname": "Jose George"
+  },
+  {"studentid": 95, "studentfname": "Aparna", "studentlname": "Sasikumar"},
+  {
+    "studentid": 96,
+    "studentfname": "Nandana",
+    "studentlname": "Shibu devarajan"
+  },
+  {
+    "studentid": 97,
+    "studentfname": "Hashrat parween",
+    "studentlname": "MD ANAMUL HAQUE"
+  },
+  {
+    "studentid": 98,
+    "studentfname": "Akshaya unni",
+    "studentlname": "UNNI KRISHNA PILLA"
+  },
+  {"studentid": 99, "studentfname": "Abinaya ", "studentlname": "KARUPPASAMY"},
+  {
+    "studentid": 100,
+    "studentfname": "Tonysha",
+    "studentlname": "SUNDARAMOORTHY S"
+  }
+]
+}
